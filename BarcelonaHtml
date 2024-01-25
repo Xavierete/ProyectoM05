@@ -20,7 +20,7 @@
         }
 
         nav {
-            background-color: #444;
+            background-color: aquamarine;
             color: #fff;
             padding: 0.5em;
         }
